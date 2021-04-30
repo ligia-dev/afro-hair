@@ -1,0 +1,156 @@
+
+body{
+    background-color: rgb(153, 114, 120);
+}
+
+/*estilizando div1*/
+
+.inicio{
+    background-image: url(img.html/salão.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+}
+
+.div1{
+    text-align: center;
+    padding-top: 30px; 
+    padding-left: 600px;
+}
+
+/*estilizando div2*/
+
+
+.div2{
+    background-color: #F5C7C7;
+    padding-top: 30px; 
+    padding-bottom: 30px;
+}
+
+.diva1{
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana;
+}
+    
+ h1{
+    font-size: 60px;
+}
+
+/*estilizando div3*/
+
+.div3{
+    background-color: #f5b4b4;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.divb2{
+   
+   margin-left: 100px;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 18px;
+    margin-top: 90px;
+}
+
+.divb2{
+    display: flex;
+    flex-direction: row;
+}
+
+.img2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/*estilizando div4*/
+
+.div4{
+    background-color: #F5C7C7 ;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.divc2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: Verdana;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.img3{
+    margin-left: 80px;
+    margin-right: 40px;
+}
+
+/*estilizando div5*/
+
+.div5{
+    background-color: rgb(153, 114, 120);
+    color: black;
+    display: flex;
+    flex-direction: row;    
+}
+
+.divd1{
+    font-family: verdana;
+    font-size: 20px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+
+h4{
+    margin-left: 250%;
+    font-size: 30px;
+}
+
+.linha1{
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 100px;
+    margin-left: 5%;
+}
+
+.linha2{
+    text-align: center;
+    margin-left: 20%;
+    padding-top:  100px;
+    margin-top: 5%;
+}
+
+.divd2{
+    background-color: crimson;
+   width: 50%;
+   padding-top: 55px;
+   padding-left: 20px;
+}
+
+label {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    padding-top: 10px;
+}
+
+textarea {
+    resize:vertical;
+
+}
+
+button{
+    margin-top: 15px;
+}
